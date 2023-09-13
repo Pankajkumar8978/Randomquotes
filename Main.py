@@ -2,7 +2,7 @@ import telebot
 import requests
 
 # Set up Telegram bot
-bot = telebot.TeleBot("6643163535:AAG2vNwPrM5FlHhTro-dx0AtJjICp_umu9o")
+bot = telebot.TeleBot("YOUR_BOT_TOKEN")
 
 # URL for fetching random quotes
 random_quotes_url = "https://api.quotable.io/random"
